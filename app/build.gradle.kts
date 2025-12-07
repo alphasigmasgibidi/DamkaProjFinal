@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.example.DamkaFinalProj"
     compileSdk = 36
 
     defaultConfig {

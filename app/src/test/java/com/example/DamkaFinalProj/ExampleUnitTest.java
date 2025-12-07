@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.DamkaFinalProj;
 
 import org.junit.Test;
 
